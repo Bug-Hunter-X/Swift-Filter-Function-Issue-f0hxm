@@ -1,0 +1,1 @@
+This repository contains a simple Swift program demonstrating a common issue with the filter function. The program intends to filter an array of integers to obtain only the even numbers. However, the program returns an empty array instead of the expected output [2, 4]. The bugSolution.swift file provides the corrected code and explanation.
